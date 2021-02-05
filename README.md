@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CarOL</h1>
-<h3 align="center">A python? sourcemod? backend? programer in Chengdu</h3>
+<h3 align="center">A programer/student in Chengdu</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hx-w&label=Profile%20views&color=0e75b6&style=flat" alt="hx-w" /> </p>
