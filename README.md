@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **python, sql and anything about csgo**
 
-- 📫 How to reach me **17361019875@163.com**
+- 📫 How to reach me **herixth@163.com**
 
 
 
