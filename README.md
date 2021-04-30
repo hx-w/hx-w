@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **django and docker**
 
-- 📝 I regularly write articles on [https://www.hx-w.top](https://hx-w.top)
+- 📝 I regularly write articles on [https://hx-w.top](https://hx-w.top)
 
 - 💬 Ask me about **python, sql and anything about csgo**
 
