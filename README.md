@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently working on [CSGOWiki-Plugins](https://github.com/hx-w/CSGOWiki-Plugins)
+- 🔭 I’m currently working on [hltv-utility-api](https://github.com/hx-w/hltv-utility-api)
 
 - 🌱 I’m currently learning **django and docker**
 
