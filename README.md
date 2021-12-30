@@ -27,5 +27,6 @@
 
 
 
+![hx-w GitHub stats](https://github-readme-stats.vercel.app/api?username=hx-w&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hx-w&show_icons=true&theme=cobalt&locale=en" alt="hx-w" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hx-w&hide=html,css&layout=compact)
