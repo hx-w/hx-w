@@ -17,13 +17,11 @@
 
 
 
-- 🔭 I’m currently working on [hltv-utility-api](https://github.com/hx-w/hltv-utility-api)
+- 🌱 I’m currently learning **rendering techniques**
 
-- 🌱 I’m currently learning **django and docker**
+- 📝 I regularly write articles on [https://blog.scubot.com](https://blog.scubot.com)
 
-- 📝 I regularly write articles on [https://blog.hx-w.top](https://blog.hx-w.top)
-
-- 💬 Ask me about **python, sql and anything about csgo**
+- 💬 Ask me about **python, sql, vuejs and anything about csgo**
 
 - 📫 How to reach me **herixth@163.com**
 
