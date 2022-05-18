@@ -17,3 +17,5 @@
 ![hx-w GitHub stats](https://github-readme-stats.vercel.app/api?username=hx-w&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hx-w&hide=html,css&layout=compact)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
