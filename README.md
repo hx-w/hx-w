@@ -14,7 +14,8 @@
 - 📫 How to reach me **herixth@163.com**
 
 
-![hx-w GitHub stats](https://github-readme-stats.vercel.app/api?username=hx-w&show_icons=true)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/hx-w/repos?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
