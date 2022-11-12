@@ -2,16 +2,16 @@
 <h3 align="center">A programer/student in Chengdu</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hx-w&label=Profile%20views&color=0e75b6&style=flat" alt="hx-w" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hx-w&label=Profile%20views&color=0e75b6&style=flat" alt="hx-w" /> </p>
 
 
-- 🌱 I’m currently learning **rendering techniques**
+- 🌱 Work & Learning - **rendering, topology and ~~fxxking~~ deep learning**
 
-- 📝 I regularly write articles on [https://blog.scubot.com](https://blog.scubot.com)
+- 📝 Tech & Life - [**https://blog.scubot.com**](https://blog.scubot.com)
 
-- 💬 Ask me about **python, rendering, vuejs and csgo**
+- 💬 Known & Interest - **python, cpp and rendering**
 
-- 📫 How to reach me **herixth@163.com**
+- 📫 Contact me - [email] **herixth@163.com** | [QQ] **765892480** | [wechat] **carolnc**
 
 
 
