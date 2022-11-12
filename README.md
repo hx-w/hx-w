@@ -15,7 +15,9 @@
 
 
 
+<!--
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/hx-w/repos?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
+-->
 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
