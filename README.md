@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CarOL</h1>
+<h1 align="center">CarOL / hx-w</h1>
 <h3 align="center">A programer/student in Chengdu</h3>
 
 
