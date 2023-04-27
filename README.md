@@ -11,7 +11,7 @@
 
 - 💬 Known & Interest - **python, cpp and rendering**
 
-- 📫 Contact me - [email] **herixth@163.com** / [QQ] **765892480** / [wechat] **carolnc**
+- 📫 Contact me - [email] **carol@scubot.com** / [QQ] **765892480** / [wechat] **carolnc**
 
 
 
