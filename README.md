@@ -1,5 +1,5 @@
-<h1 align="center">CarOL / hx-w</h1>
-<h3 align="center">A programer/student in Chengdu</h3>
+<h1 align="center">CarOL</h1>
+<h3 align="center">A programmer maybe</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hx-w&label=Profile%20views&color=0e75b6&style=flat" alt="hx-w" /> </p>
@@ -9,9 +9,9 @@
 
 - 📝 Tech & Life - [**https://blog.scubot.com**](https://blog.scubot.com)
 
-- 💬 Known & Interest - **python, cpp and rendering**
+- 💬 Known & Interest - **geometry, cpp and rendering**
 
-- 📫 Contact me - [email] **carol@scubot.com** / [QQ] **765892480** / [wechat] **carolnc**
+- 📫 Contact me - [email] **herixth@163.com** / [wechat] **carolnc**
 
 
 
